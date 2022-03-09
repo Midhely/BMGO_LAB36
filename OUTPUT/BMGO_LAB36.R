@@ -1,8 +1,4 @@
-####################
-#                  #
-# Copiar todo esto #
-#                  #
-####################
+
 
 
 # Laboratorio - MAPA DE CALOR -TÉRMICO- with pheatmap
